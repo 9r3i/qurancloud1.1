@@ -1,6 +1,6 @@
 ;function QuranCloud(){
 this.version='1.1.0';
-this.host='http://api.alquran.cloud/v1/';
+this.host='https://api.alquran.cloud/v1/';
 this.index=null;
 window._this=this;
 window._QuranCloud=this;
